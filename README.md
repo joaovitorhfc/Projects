@@ -1,8 +1,5 @@
 ## Curriculum João Vitor Hermes
-
-Aqui está meu Currículo, atualizado dia 10/09/2025
-
-## Plataform and Language used 
+# Plataform and Language used 
 <img
 align="left" 
 alt="Vscode" 
