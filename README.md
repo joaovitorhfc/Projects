@@ -1,4 +1,7 @@
 # Curriculum João Vitor Hermes
+
+Here is my resume
+
 ## Plataform and Language used 
 <img
 align="left" 
