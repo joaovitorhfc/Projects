@@ -1,5 +1,5 @@
-## Curriculum João Vitor Hermes
-# Plataform and Language used 
+# Curriculum João Vitor Hermes
+## Plataform and Language used 
 <img
 align="left" 
 alt="Vscode" 
