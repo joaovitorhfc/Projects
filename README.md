@@ -1,6 +1,6 @@
 # Curriculum João Vitor Hermes
 
-Here is my resume
+Here is my professional and personal resume
 
 ## Plataform and Language used 
 <img
