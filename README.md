@@ -1,4 +1,4 @@
-# Curriculum João Vitor Hermes
+# Resume João Vitor Hermes
 
 Here is my professional and personal resume
 
